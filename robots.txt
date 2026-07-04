@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://USERNAME.github.io/raqmana-website/sitemap.xml
+Sitemap: https://saidnma.github.io/raqmana-website/sitemap.xml
